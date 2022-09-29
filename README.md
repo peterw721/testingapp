@@ -1,16 +1,20 @@
+[![Build Status](https://app.travis-ci.com/peterw721/testingapp.svg?branch=main)](https://app.travis-ci.com/peterw721/testingapp)
+
 # Assessment - Peter Whyte 
 
-Repo for Assurity Assessment -- due Sunday October 2nd, 2022
+Repository for Assurity Assessment 
 
+Automatically retrieves JSON data from an API and searches to find specified field values.
+Git, Maven, and Java 8 installations are required to be installed.
 
+## Setup
 
-## Running the program
+Clone repository
+    git clone https://github.com/peterw721/testingapp.git
 
-run `mvn clean test`
+Enter Project directory
+    cd testingapp
 
+## Running all tests
 
-## Other features
-
-### Run tests
-
-The app supports quick search of an API to retrieve specified field criteria.
+    mvn clean test
