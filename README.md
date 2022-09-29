@@ -1,13 +1,12 @@
 # Assessment - Peter Whyte 
 
-Repo for Assurity Assessment
+Repo for Assurity Assessment -- due Sunday October 2nd, 2022
 
 
 
 ## Running the program
 
-Install dependencies `mvn clean install`
-
+run `mvn clean test`
 
 
 ## Other features
