@@ -10,9 +10,11 @@ Git, Maven, and Java 8 installations are required to be installed.
 ## Setup
 
 Clone repository
+
     git clone https&#58;&#47;&#47;github&period;com/peterw721/testingapp.git
 
 Enter Project directory
+
     cd testingapp
 
 ## Running all tests
