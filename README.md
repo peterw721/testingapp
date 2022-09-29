@@ -1,6 +1,6 @@
 [![Build Status](https://app.travis-ci.com/peterw721/testingapp.svg?branch=main)](https://app.travis-ci.com/peterw721/testingapp)
 
-# Assessment - Peter Whyte 
+# Test code assessment by Peter Whyte 
 
 Repository for Assurity Assessment 
 
