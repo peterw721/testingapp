@@ -5,7 +5,8 @@
 Repository for Assurity Assessment 
 
 Automatically retrieves JSON data from an API and searches to find specified field values.
-Git, Maven, and Java 8 installations are required to be installed.
+
+Git, Maven, and Java 8 are required to be installed.
 
 ## Setup
 
